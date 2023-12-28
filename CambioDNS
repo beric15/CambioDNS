@@ -1,3 +1,2 @@
 # CambioDNS
-Ciao, questo che ho caricato è il metodo che esegue la procedura di cambiare DNS in modo automatico. Spero possa esservi utile.
-
+Alcuni siti web vengono censurati dal governo, per bypassare il blocco con Windows andate nelle Impostazioni-->Rete e Internet-->Andate nella vostra rete, scorrete in basso e troverete DNS-->Cliccate su modifica e inserite-->DNS PREDEFINITO: 208.67.222.222, ed in basso -->208.67.220.220.
